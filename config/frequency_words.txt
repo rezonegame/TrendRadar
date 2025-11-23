@@ -2,14 +2,12 @@
 BoardGame
 
 骇浪求生
-BoardGame
 
 血与刃的白蔷薇
-BoardGame
 
 BoardGame
 桌面游戏
-智研家
++智研家
 
 红色记忆
 智研家
